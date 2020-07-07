@@ -12,7 +12,7 @@ const SearchResto = () => {
       .then((response) => response.json())
       .then((response) => {
         console.log(response);
-        setRestos(response.results);
+        setRestos(response.restaurants);
       });
   }, []);
 
