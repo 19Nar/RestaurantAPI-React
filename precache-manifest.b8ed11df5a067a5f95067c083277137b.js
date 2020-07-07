@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f0861aaa4d77bbfe8cba34d83babf81",
+    "revision": "bcfab4dbfbac09427a7cab200c2bdd6e",
     "url": "/19Nar/RestaurantAPI-React/index.html"
   },
   {
-    "revision": "ebed8044d5a842947682",
+    "revision": "f2c699ddfde5541d641d",
     "url": "/19Nar/RestaurantAPI-React/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "4dbfeb46f056977e3db9",
+    "revision": "1e7dd2d693198ad8a048",
     "url": "/19Nar/RestaurantAPI-React/static/css/main.0b190c47.chunk.css"
   },
   {
-    "revision": "ebed8044d5a842947682",
-    "url": "/19Nar/RestaurantAPI-React/static/js/2.66d107de.chunk.js"
+    "revision": "f2c699ddfde5541d641d",
+    "url": "/19Nar/RestaurantAPI-React/static/js/2.1a25ab0f.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/19Nar/RestaurantAPI-React/static/js/2.66d107de.chunk.js.LICENSE.txt"
+    "url": "/19Nar/RestaurantAPI-React/static/js/2.1a25ab0f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4dbfeb46f056977e3db9",
-    "url": "/19Nar/RestaurantAPI-React/static/js/main.2c1e3790.chunk.js"
+    "revision": "1e7dd2d693198ad8a048",
+    "url": "/19Nar/RestaurantAPI-React/static/js/main.3463eb4d.chunk.js"
   },
   {
     "revision": "c982ca5b0ed0138df951",
