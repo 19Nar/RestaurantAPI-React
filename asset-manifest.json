@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/19Nar/RestaurantAPI-React/static/css/main.0b190c47.chunk.css",
+    "main.js": "/19Nar/RestaurantAPI-React/static/js/main.2c1e3790.chunk.js",
+    "main.js.map": "/19Nar/RestaurantAPI-React/static/js/main.2c1e3790.chunk.js.map",
+    "runtime-main.js": "/19Nar/RestaurantAPI-React/static/js/runtime-main.c9026d16.js",
+    "runtime-main.js.map": "/19Nar/RestaurantAPI-React/static/js/runtime-main.c9026d16.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/19Nar/RestaurantAPI-React/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.66d107de.chunk.js": "/19Nar/RestaurantAPI-React/static/js/2.66d107de.chunk.js",
+    "static/js/2.66d107de.chunk.js.map": "/19Nar/RestaurantAPI-React/static/js/2.66d107de.chunk.js.map",
+    "index.html": "/19Nar/RestaurantAPI-React/index.html",
+    "precache-manifest.714c9f4a21c87839b373d7de6e4d4148.js": "/19Nar/RestaurantAPI-React/precache-manifest.714c9f4a21c87839b373d7de6e4d4148.js",
+    "service-worker.js": "/19Nar/RestaurantAPI-React/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/19Nar/RestaurantAPI-React/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.0b190c47.chunk.css.map": "/19Nar/RestaurantAPI-React/static/css/main.0b190c47.chunk.css.map",
+    "static/js/2.66d107de.chunk.js.LICENSE.txt": "/19Nar/RestaurantAPI-React/static/js/2.66d107de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9026d16.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.66d107de.chunk.js",
+    "static/css/main.0b190c47.chunk.css",
+    "static/js/main.2c1e3790.chunk.js"
+  ]
+}
